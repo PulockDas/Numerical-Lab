@@ -26,4 +26,4 @@ for iteration = 1 : iterlimit
 end
 iteration
 disp('solution')
-xnew
+x 
